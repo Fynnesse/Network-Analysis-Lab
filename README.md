@@ -6,12 +6,13 @@ The primary goal of this lab was to conduct a comprehensive network analysis foc
 
 # Skills Learned
 
-- Proficient use of Wireshark for network traffic analysis.
-- Identification and analysis of port scanning activities.
-- Detection of web penetration testing tools like Gobuster and sqlmap in network traffic.
-- Decoding and understanding malicious payloads in HTTP requests.
-- Identification of web shell upload and execution.
-- Recognizing and analyzing reverse shell connections
+- Network Traffic Analysis: Gained proficiency in using Wireshark to analyze network traffic, identifying suspicious activities and potential threats.
+- Threat Detection: Skilled in detecting and analyzing port scanning activities, as well as recognizing the use of web penetration testing tools like Gobuster and sqlmap within network traffic..
+- Malicious Payload Analysis: Developed the ability to decode and understand malicious payloads within HTTP requests, enhancing the capability to pinpoint and analyze web shell uploads and executions.
+- Reverse Shell Analysis: Identified and investigated reverse shell connections, understanding the mechanisms of unauthorized remote command executions.
+(air gaps, VLANs, proxy servers) to construct secure networks.)
+- Incident Analysis: Conducted a detailed analysis of packet captures to trace malicious activities, including SQL injection and cross-site scripting (XSS) attempts, leading to the identification and examination of malicious file uploads and executions.
+
 
 # Tools Used
 
